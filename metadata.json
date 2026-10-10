@@ -1,0 +1,6 @@
+{
+  "name": "PhytoRx: Clinical Botanical Air & Oxygen Prescriber",
+  "description": "Evidence-based medicinal plant prescription engine calculated by room dimensions, volumetric air exchange, and specific health concerns to optimize indoor oxygen and eliminate toxins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
